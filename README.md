@@ -1,2 +1,0 @@
-# sirsim-writing
-Sirsim Writing
